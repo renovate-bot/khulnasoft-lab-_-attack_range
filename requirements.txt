@@ -50,7 +50,7 @@ pexpect==4.7.0
 pluggy==0.13.1
 portalocker==1.7.1
 pre-commit==1.21.0
-protobuf==3.18.3
+protobuf==4.25.8
 psutil==5.6.7
 ptyprocess==0.6.0
 py==1.8.1
